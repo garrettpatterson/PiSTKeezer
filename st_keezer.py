@@ -4,9 +4,9 @@ import json
 import time
 
 conf = {
-	'app_url':"https://graph-na04-useast2.api.smartthings.com/api/smartapps/installations/"
-	, 'app_id':"c06ad6d1-1929-42b8-8736-a112301c9acd"
-	, 'token':"4ad77334-8ec6-4647-918e-df6cfceaa743"
+	'app_url':"YOUR-ST-IDE-GRAPH-API-URL-THING-HERE"
+	, 'app_id':"YOUR-APP-ID-HERE"
+	, 'token':"YOUR-TOKEN-HERE"
 	, 'update_ignore_seconds':600
 	,'last_update':0
 	, 'last_event':{
